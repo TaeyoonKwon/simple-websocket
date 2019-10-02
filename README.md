@@ -5,9 +5,9 @@ Simple chat app example made with Socket.io
 
 ## Install
 
-> npm install
-
-
+    npm install
+<br>
 ## Usage
 
-> npm run dev
+     npm run dev
+<br>
