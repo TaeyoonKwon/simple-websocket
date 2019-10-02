@@ -1,0 +1,18 @@
+{
+  "name": "simple-websocket",
+  "version": "1.0.0",
+  "description": "Simple chat app made with Socket.io",
+  "repository": "https://github.com/TaeyoonKwon/simple-websocket",
+  "main": "server.js",
+  "scripts": {
+    "dev" : "nodemon server.js"
+  },
+  "author": "Taeyoon Kwon",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
